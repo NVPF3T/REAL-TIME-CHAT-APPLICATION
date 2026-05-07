@@ -41,7 +41,7 @@ How It Works
 
 When the application loads, a random username is generated. The client connects to a WebSocket server to send and receive messages in real time. Messages are managed using React state and saved in localStorage. The interface updates instantly without page reloads, and message editing and deletion are restricted to the original sender.
 
-#OUTPUT
+# OUTPUT
 HOME (LIGHT MODE)
 <img width="1267" height="737" alt="Image" src="https://github.com/user-attachments/assets/262aadce-cf42-4bba-8b0e-2b69496cb03e" />
 DARK MODE
